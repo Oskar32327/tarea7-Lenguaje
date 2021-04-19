@@ -1,0 +1,70 @@
+{
+	"ProtagonistasSeries": [
+		{
+			"Nombre":"Homer Simpson",
+			"Nombre de la Serie":"Los Simpsons",
+			"Lista Capitulos":[
+				{
+					"Nombre Capítulo ":"",
+					"id":""
+				},
+				{
+					"Nombre Capítulo":"",
+					"id":"",
+				},
+				{
+					"Nombre Capítulo":"",
+					"id":"",
+				}
+			],
+			"Imagen":"https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FHomerSimpson.png?1497567511939"
+		},
+
+
+
+		{
+			"Nombre":"Marge Simpson",
+			"Nombre de la Serie":"Los Simpsons",
+			"Lista Capitulos":[
+				{
+					"Nombre Capítulo ":"",
+					"id":""
+				},
+				{
+					"Nombre Capítulo":"",
+					"id":"",
+				},
+				{
+					"Nombre Capítulo":"",
+					"id":"",
+				}
+			],
+			"Imagen":"https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FMargeSimpson.png?1497567512205"
+		},
+
+
+
+
+		{
+			"Nombre":"Milhouse Van Houten",
+			"Nombre de la Serie":"Los Simpsons",
+			"Lista Capitulos":[
+				{
+					"Nombre Capítulo ":"",
+					"id":""
+				},
+				{
+					"Nombre Capítulo":"",
+					"id":"",
+				},
+				{
+					"Nombre Capítulo":"",
+					"id":"",
+				}
+			],
+			"Imagen":"https://cdn.glitch.com/3c3ffadc-3406-4440-bb95-d40ec8fcde72%2FMilhouseVanHouten.png?1497567513002"
+		}
+	]
+
+
+}
