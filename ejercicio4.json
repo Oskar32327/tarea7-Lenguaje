@@ -28,6 +28,13 @@
 	"viento":19,
 	"humedad":10,	
 	"estado":{"Nombre":"Tormenta", "Icono":"⛈"}
+	},
+	{
+	"dia":15,
+	"temperatura":9,
+	"viento":19,
+	"humedad":10,	
+	"estado":{"Nombre":"Tormenta", "Icono":"⛈"}
 	}
 	]
 }
