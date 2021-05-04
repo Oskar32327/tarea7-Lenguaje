@@ -30,11 +30,11 @@
 	"estado":{"Nombre":"Tormenta", "Icono":"⛈"}
 	},
 	{
-	"dia":15,
-	"temperatura":9,
+	"dia":16,
+	"temperatura":-12,
 	"viento":19,
 	"humedad":10,	
-	"estado":{"Nombre":"Tormenta", "Icono":"⛈"}
+	"estado":{"Nombre":"Helado", "Icono":"⛈"}
 	}
 	]
 }
